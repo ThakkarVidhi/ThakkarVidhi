@@ -1,6 +1,29 @@
 # 💫 About Me:
-👋 Hi there! I'm Vidhi Thakkar, a graduate student specializing in Machine Learning & Artificial Intelligence at the University of Waterloo. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.<br><br>🔭 I'm currently working on: Developing deep learning models for image classification. Building scalable backend systems and refining optimization techniques.<br><br>🤝 I'm looking to collaborate on: AI-driven projects, especially in computer vision, natural language processing, and educational technology. Backend development projects requiring robust API integration and database management.<br><br>🌱 I'm currently learning: Advanced machine learning techniques, TensorFlow, Keras, and refining my skills in Python. Best practices in backend development, with a focus on security and performance optimization.<br><br>💡 I'm looking for help with: Integrating machine learning models into production-ready applications. Scaling backend systems and optimizing database performance.<br><br>💬 Ask me about: My experience in backend development and client communication. How to build and manage RESTful APIs using Node.js and Express.js. How to build robust machine learning models and optimize them for real-world applications.<br><br>🎯 Fun fact: I'm passionate about travel and event management. Whether it's organizing an event or exploring a new destination, I'm always up for an adventure! 🛫🎉
+👋 Hi there! I'm Vidhi Thakkar, a graduate student specializing in Machine Learning & Artificial Intelligence at the University of Waterloo. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
 
+🔭 **I'm currently working on:**
+  - Developing deep learning models for image classification.
+  - Building scalable backend systems and refining optimization techniques.
+
+🤝 **I'm looking to collaborate on:**
+  - AI-driven projects, especially in computer vision, natural language processing, and educational technology.
+  - Backend development projects requiring robust API integration and database management.
+
+🌱 **I'm currently learning:**
+  - Advanced machine learning techniques, TensorFlow, Keras, and refining my skills in Python.
+  - Best practices in backend development, with a focus on security and performance optimization.
+
+💡 **I'm looking for help with:**
+  - Integrating machine learning models into production-ready applications.
+  - Scaling backend systems and optimizing database performance.
+
+💬 **Ask me about:**
+  - My experience in backend development and client communication.
+  - How to build and manage RESTful APIs using Node.js and Express.js.
+  - How to build robust machine learning models and optimize them for real-world applications.
+
+🎯 **Fun fact:** 
+  - I'm passionate about travel and event management. Whether it's organizing an event or exploring a new destination, I'm always up for an adventure! 🛫🎉
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhi-thakkar-0b509724a) 
