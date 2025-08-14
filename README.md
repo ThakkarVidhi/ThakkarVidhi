@@ -1,17 +1,18 @@
 # 💫 About Me:
-👋 Hi there! I'm Vidhi Thakkar, a graduate student specializing in Machine Learning & Artificial Intelligence at the University of Waterloo. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
+👋 Hi there! I’m Vidhi Thakkar, an AI/ML Software Engineer and Master’s graduate in Electrical and Computer Engineering from the University of Waterloo, specializing in Machine Learning, Artificial Intelligence, and Business Leadership. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
 
 🔭 **I'm currently working on:**
-  - Developing deep learning models for image classification.
-  - Building scalable backend systems and refining optimization techniques.
+  - Developing Hailey™ – AI Health Concierge™ at Healthyher.Life, integrating LLMs, RAG pipelines, Vector DB, PostgreSQL, and AI workflows for personalized women’s health navigation.
+  - Building deep learning models for image classification and other NLP-based applications.
+  - Designing and deploying scalable backend systems with optimized performance, database management, and API integration.
 
 🤝 **I'm looking to collaborate on:**
-  - AI-driven projects, especially in computer vision, natural language processing, and educational technology.
-  - Backend development projects requiring robust API integration and database management.
+  - AI-driven projects, especially in computer vision, natural language processing, and health technology.
+  - Backend development requiring robust API design, database optimization, and production-ready deployment.
 
 🌱 **I'm currently learning:**
-  - Advanced machine learning techniques, TensorFlow, Keras, and refining my skills in Python.
-  - Best practices in backend development, with a focus on security and performance optimization.
+  - Advanced machine learning techniques, TensorFlow, Keras, prompt engineering, and refining my skills in Python.
+  - Best practices in backend development, with a focus on security, performance optimization, cloud deployment, and system scalability.
 
 💡 **I'm looking for help with:**
   - Integrating machine learning models into production-ready applications.
@@ -19,6 +20,7 @@
 
 💬 **Ask me about:**
   - My experience in backend development and client communication.
+  - Building and deploying AI/ML models for real-world applications.
   - How to build and manage RESTful APIs using Node.js and Express.js.
   - How to build robust machine learning models and optimize them for real-world applications.
 
